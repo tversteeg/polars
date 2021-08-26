@@ -1,0 +1,6 @@
+﻿polars.Expr.fill\_none
+======================
+
+.. currentmodule:: polars
+
+.. automethod:: Expr.fill_none

@@ -1,0 +1,6 @@
+﻿polars.Series.fill\_none
+========================
+
+.. currentmodule:: polars
+
+.. automethod:: Series.fill_none
